@@ -1,0 +1,18 @@
+{
+  "catalog_name": "boring",
+  "namespaces": {
+    "ice_default": {
+      "properties": {
+        "exists": "true"
+      }
+    }
+  },
+  "tables": {
+    "ice_default.yellow_tripdata_tbl": {
+      "namespace": "ice_default",
+      "name": "yellow_tripdata_tbl",
+      "metadata_location": "warehouse/ice_default.db/yellow_tripdata_tbl/metadata/00002-22bfbb03-24b0-4159-9150-ce8c930ed9c5.metadata.json",
+      "previous_metadata_location": "warehouse/ice_default.db/yellow_tripdata_tbl/metadata/00001-b96d4c07-8531-4698-ae55-a226de789c09.metadata.json"
+    }
+  }
+}

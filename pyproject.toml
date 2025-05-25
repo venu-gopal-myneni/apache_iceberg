@@ -1,0 +1,12 @@
+[project]
+name = "apache-iceberg"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boringcatalog>=0.4.0",
+    "duckdb>=1.3.0",
+    "polars>=1.30.0",
+    "pyiceberg>=0.9.1",
+]
